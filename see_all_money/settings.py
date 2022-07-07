@@ -83,11 +83,11 @@ WSGI_APPLICATION = 'see_all_money.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'HOST': 'ec2-52-72-56-59.compute-1.amazonaws.com',
-        'NAME': 'd9s1nlparah7l5',
-        'USER': 'awpnqxiqyxojke',
+        'HOST': 'ec2-54-159-22-90.compute-1.amazonaws.com',
+        'NAME': 'd464iaan2ouahm',
+        'USER': 'ttqlxclqsforqc',
         'PORT': '5432',
-        'PASSWORD': '6fd6a83af1f5d849c04da0d8abe01637a4ad8d267260b04e9f7af9a535297b6a',
+        'PASSWORD': '2310d22f5ba06323c30a3a0153445fb4f95dedb2fde35bd12785e4b2b27db987',
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
